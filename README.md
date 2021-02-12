@@ -120,7 +120,7 @@ How would you design an infinite scroll view, like feed on Facebook?
 ## Part 3
 Code a component.
 
-In this challenge, you will be asked to code a partial clone of a component from Ant Design library. It is prohibited to use any third-party UI libraries under the hood.
+In this challenge, you will be asked to code a partial clone of a component from Ant Design library. It is prohibited to use any third-party UI libraries under the hood. If you are stuck, feel free to ask specific, well formed questions.
 
 Create a directory at the root of the repo named `component`. Initialise it as an NPM package and configure Storybook. Create a single story that renders the component, and renders its current value as a raw JSON string next to it.
 
