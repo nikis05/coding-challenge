@@ -1,4 +1,4 @@
-# Leviosa coding challange
+# Leviosa coding challenge
 To take the quiz, please fork this repository. Put your answers into the fork as specified below. Good luck!
 
 ## Part 1
