@@ -1,5 +1,5 @@
 # Leviosa coding challange
-To take the quiz, please fork this repository. Good luck!
+To take the quiz, please fork this repository. Put your answers into the fork as specified below. Good luck!
 
 ## Part 1
 For each of the code examples below, explain what is wrong with the code and come up with a fix. It is okay to google as long as you provide correct answers.
