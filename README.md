@@ -71,7 +71,7 @@ publishItems().catch(e => {
 ### Example 4
 
 ```typescript
-const definedItems(array: any[]) => {
+const definedItems = (array: any[]) => {
   const outputArray = [];
   array.forEach(item => {
     if (item) outputArray.push(item);
