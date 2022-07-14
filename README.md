@@ -146,7 +146,7 @@ interface Item {
 }
 ```
 
-The component should look like and behave like [multiple selection](https://ant.design/components/select/#components-select-demo-multiple)  variant of `Select` component from Ant Design:
+The component should look like and behave like [multiple selection](https://ant.design/components/select/#components-select-demo-multiple)  variant of `Select` component from Ant Design. Visual appearance / styling is not as important as features. It is okay to not implement every one of the features, but the more the better. Features description:
 
 1. By default, component is rendered in `closed` mode, and looks like an empty text input.
 2. If no items are selected, a placeholder is rendered within the input. Custom placeholder can be specified by component user, otherwise the default must be used.
