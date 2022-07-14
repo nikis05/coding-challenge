@@ -122,6 +122,8 @@ Code a component.
 
 In this challenge, you will be asked to code a partial clone of a component from Ant Design library. It is prohibited to use any third-party UI libraries under the hood. If you are stuck, feel free to ask specific, well formed questions.
 
+It is allowed to not implement styling in a pixel-perfect manner, it is also allowed to not implement some of the below listed features, but the more you implement the better, and you should aim to implement at least p. 1-7.
+
 Create a directory at the root of the repo named `component`. Initialise it as an NPM package and configure Storybook. Create a single story that renders the component, and renders its current value as a raw JSON string next to it.
 
 The component should accept the following props:
